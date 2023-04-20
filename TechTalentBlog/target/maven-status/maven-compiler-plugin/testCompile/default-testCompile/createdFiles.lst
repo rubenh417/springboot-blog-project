@@ -1,0 +1,6 @@
+com\techtalentsouth\TechTalentBlog\SpringBootTest.class
+com\techtalentsouth\TechTalentBlog\TechTalentBlogApplicationTests.class
+com\techtalentsouth\TechTalentBlog\BlogPosts\BlogPost.class
+com\techtalentsouth\TechTalentBlog\BlogPosts\Controller.class
+com\techtalentsouth\TechTalentBlog\BlogPosts\BlogPostController.class
+com\techtalentsouth\TechTalentBlog\BlogPosts\BlogPostRepository.class
